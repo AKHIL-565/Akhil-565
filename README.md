@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">
+  Hey There 👋 I'm Akhil
+</h1>
 
 <!--
 **AKHIL-565/Akhil-565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
