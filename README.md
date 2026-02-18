@@ -1,3 +1,35 @@
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&size=35&center=true&vCenter=true&width=750&lines=Hey+There+👋+I'm+Akhil;Software+Engineer;MERN+Stack+Developer;Building+Scalable+Web+Applications+🚀" />
+</h1>
+
+---
+
+## 🚀 About Me
+
+Motivated Software Engineer specializing in the MERN stack, focused on building responsive user interfaces and scalable backend systems.
+
+- 💻 Strong in React.js, Node.js, Express.js & MongoDB  
+- 🔐 Implemented JWT authentication & role-based access control  
+- 📊 Built real-world projects including LMS & Appointment Booking System  
+- 🤖 Developed CNN-based Object Recognition & Tracking System  
+- 🌱 Passionate about clean architecture and production-ready applications  
+
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:akhil.a.dev21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 💻 Tech Stack
 
 <p align="left">
@@ -49,3 +81,14 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AKHIL-565&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
