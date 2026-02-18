@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=35&center=true&vCenter=true&width=750&lines=Hey+There+👋+I'm+Akhil;Software+Engineer;MERN+Stack+Developer;Building+Scalable+Web+Applications+🚀" />
 </h1>
 <br/>
-## 🚀 About Me
+🚀 About Me
 
 Motivated Software Engineer specializing in the MERN stack, focused on developing responsive user interfaces and scalable backend systems.
 
