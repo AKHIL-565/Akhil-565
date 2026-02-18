@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=35&center=true&vCenter=true&width=750&lines=Hey+There+👋+I'm+Akhil;Software+Engineer;MERN+Stack+Developer;Building+Scalable+Web+Applications+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=35&center=true&vCenter=true&width=750&lines=Hey+There+👋+I'm+AKHIL;Software+Engineer;MERN+Stack+Developer;Building+Scalable+Web+Applications+🚀" />
 </h1>
 
 <br/>
