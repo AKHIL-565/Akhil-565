@@ -5,7 +5,7 @@
 
 <br/>
 
-<hr style="height:3px;border:none;background-color:#2f2f2f;">
+
 
 ## 🚀 About Me
 
