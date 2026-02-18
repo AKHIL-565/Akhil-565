@@ -3,9 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=35&center=true&vCenter=true&width=750&lines=Hey+There+👋+I'm+Akhil;Software+Engineer;MERN+Stack+Developer;Building+Scalable+Web+Applications+🚀" />
 </h1>
 
-<br/>
-
-<hr style="height:3px;border:none;background-color:#2f2f2f;">
+<br/><br/>
 
 ## 🚀 About Me
 
@@ -17,9 +15,7 @@ Motivated Software Engineer specializing in the MERN stack, focused on developin
 - 🤖 Built intelligent systems integrating modern technologies  
 - 🌱 Passionate about clean architecture, performance optimization & scalable solutions  
 
-<br/>
-
-<hr style="height:3px;border:none;background-color:#2f2f2f;">
+<br/><br/>
 
 ## 🌐 Socials
 
@@ -32,9 +28,7 @@ Motivated Software Engineer specializing in the MERN stack, focused on developin
   </a>
 </p>
 
-<br/>
-
-<hr style="height:3px;border:none;background-color:#2f2f2f;">
+<br/><br/>
 
 ## 💻 Tech Stack
 
@@ -84,9 +78,7 @@ Motivated Software Engineer specializing in the MERN stack, focused on developin
 
 </p>
 
-<br/>
-
-<hr style="height:3px;border:none;background-color:#2f2f2f;">
+<br/><br/>
 
 ## 🔥 GitHub Streak
 
